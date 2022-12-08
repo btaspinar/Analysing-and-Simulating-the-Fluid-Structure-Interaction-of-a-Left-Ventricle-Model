@@ -1,2 +1,1 @@
-# LV
-Model of Virtual Left Ventricle 
+# A short summary about my master's thesis
